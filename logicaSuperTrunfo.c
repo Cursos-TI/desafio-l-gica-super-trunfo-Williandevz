@@ -28,7 +28,7 @@ int main(){
     // ===== Cadastro primeira carta =====
     printf("\n===============================================\n");
     printf("  *        CADASTRO DA PRIMEIRA CARTA       *   \n");
-    printf("===============================================\n");
+    printf("==================================================\n");
 
     printf("\nDigite o estado (A-H): ");
     scanf("%19s", estado1);
